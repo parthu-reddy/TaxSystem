@@ -1,0 +1,6 @@
+{
+  "name": "OmniTax Global - Fiscal Intelligence & Tariff Engine",
+  "description": "Global tax information database, real-time fiscal policy updates, AI multinational impact analyzer, cross-border and interstate tariff calculator, and secure compliance document vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
